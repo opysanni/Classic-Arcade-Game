@@ -9,7 +9,7 @@
 ## Instructions
 
 1. Clone the following repo: 
-   * git clone 
+   * git clone https://github.com/opysanni/Classic-Arcade-Game.git
 
 2. Load index.html in browser.
 
