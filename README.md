@@ -5,7 +5,7 @@
 
 - [Installation Instruction](#instructions)
 - [How To Play](#how_to_play)
-- [Contributing](#contributing)
+
 
 ## Instructions
 
